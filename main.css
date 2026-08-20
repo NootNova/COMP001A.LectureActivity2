@@ -4,7 +4,7 @@
 body {
     font-family: sans-serif;
     padding: 1em;
-    max-width: 600;
+    max-width: 600px;
 }
 
 h1 {
@@ -21,4 +21,6 @@ ul {
     list-style: square;
 }
 
-.content {background-color: blu;}
+.content {
+    background-color: blue;
+}
